@@ -1,5 +1,5 @@
 public class DockingStation {
-    public String releaseBike() {
-        return "bike";
+    public Object releaseBike() {
+        return new Bike();
     }
 }
