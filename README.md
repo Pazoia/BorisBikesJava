@@ -31,6 +31,7 @@ I'd like a docking station to release a bike.
 As a person,
 So that I can use a good bike,
 I'd like to see if a bike is working
+✅
 ```
 | Object/Class   | Method          | Behavior/Relationship | 
 | -------------- | --------------- | --------------------- |
@@ -49,7 +50,8 @@ Will need help filling out this field. To be completed.
 
 * Create Project and initialise git repo
 * Break down first user stories into Classes, Methods and how they interact with each other
-* First unit test passing - DockingStation class returning a String "bike".
+* Unit test passing - DockingStation class returning a String "bike"
+* Unit test passing - Bike class checking if new Bike isWorking()
 
 ## Sources
 
