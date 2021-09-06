@@ -21,6 +21,7 @@ In this project a user can release a working bike from a docking station, and do
 As a person,
 So that I can use a bike,
 I'd like a docking station to release a bike.
+✅
 ```
 | Object/Class   | Method        | Behavior/Relationship | 
 | -------------- | ------------- | --------------------- |
@@ -46,8 +47,9 @@ Will need help filling out this field. To be completed.
 
 ## Project Status
 
-* Completed Challenge 1 - Create Project and initialise git repo
-* Completed Challenge 2 - Break down first user stories into Classes, Methods and how they interact with each other
+* Create Project and initialise git repo
+* Break down first user stories into Classes, Methods and how they interact with each other
+* First unit test passing - DockingStation class returning a String "bike".
 
 ## Sources
 
